@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[60],{220:function(e,n,t){"use strict";t.r(n);var a=t(0),l=Object(a.a)({},function(){var e=this.$createElement,n=this._self._c||e;return n("div",{staticClass:"content"},[n("palace-index")],1)},[],!1,null,null,null);l.options.__file="Palace.md";n.default=l.exports}}]);

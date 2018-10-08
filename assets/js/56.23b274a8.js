@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[56],{215:function(e,n,s){"use strict";s.r(n);var t=s(0),i=Object(t.a)({},function(){var e=this.$createElement,n=this._self._c||e;return n("div",{staticClass:"content"},[n("message-index")],1)},[],!1,null,null,null);i.options.__file="Message.md";n.default=i.exports}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[72],{247:function(t,n,e){"use strict";e.r(n);var i=e(0),s=Object(i.a)({},function(){var t=this.$createElement,n=this._self._c||t;return n("div",{staticClass:"content"},[n("switch-index")],1)},[],!1,null,null,null);s.options.__file="Switch.md";n.default=s.exports}}]);

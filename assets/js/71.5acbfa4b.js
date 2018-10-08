@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[71],{246:function(e,n,t){"use strict";t.r(n);var i=t(0),s=Object(i.a)({},function(){var e=this.$createElement,n=this._self._c||e;return n("div",{staticClass:"content"},[n("swiper-index")],1)},[],!1,null,null,null);s.options.__file="Swiper.md";n.default=s.exports}}]);
